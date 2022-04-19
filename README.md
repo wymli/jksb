@@ -8,7 +8,8 @@
 
 - 点击 [Use this template](https://github.com/Editi0/SYSU-HealthReport-Template/generate) 创建一个新的仓库（同时点个 Star）。
 
-- 注册[第三方在线识别平台](http://fast.95man.com)，每日免费额度100，获取 Token。
+- 注册[第三方在线识别平台](http://fast.95man.com)，每日免费额度100，获取 Token。   kl
+
 
 - 在新仓库中 Settings-Secrets 填写下列信息，注意需要大写，可参考[这里](https://docs.github.com/en/actions/security-guides/encrypted-secrets)。
 
